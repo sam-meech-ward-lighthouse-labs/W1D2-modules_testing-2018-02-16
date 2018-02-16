@@ -51,6 +51,8 @@ or
 module.exports = someFunction;
 ```
 
+![Require](https://i.imgur.com/IHF5obl.jpg)
+
 - npm
   - Nutty Programming Men
   - Node Package manager, manages modules for us.
